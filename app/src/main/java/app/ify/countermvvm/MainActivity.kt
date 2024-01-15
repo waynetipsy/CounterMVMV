@@ -24,7 +24,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.ViewModel
-//import androidx.lifecycle.ViewModel.compose.viewModel
+import androidx.lifecycle.viewmodel.compose.viewModel
 import app.ify.countermvvm.ui.theme.CounterMVVMTheme
 
 class MainActivity : ComponentActivity() {
